@@ -1,0 +1,117 @@
+/* fonts link */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* conmmon start */
+body{
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+color: #000;
+}
+/* common end */
+
+/* Header_start */
+header
+{
+    padding: 30px 0 25px;
+}
+.won_nav
+{}
+.nav_logo
+{}
+.n_from
+{}
+.won_btn
+{}
+.nmb
+{}
+.menu_bar
+{}
+.menu_bar ul li a
+{padding: 0 30px !important;}
+.menu_bar ul li:last-child a
+{padding: 0 !important;}
+.menu_bar ul li a:hover
+{color: #000000 !important;}
+.font_icon
+{color: #414141 !important;}
+/* header_end */
+
+/* into start */
+.into{
+    padding: 60px 0 100px;
+}
+.i_text{}
+.i_h2{
+font-family: 'Lato', sans-serif;
+font-size: 30px;
+font-weight: 400;
+}
+.i_p{}
+/* into end */
+
+/* about start */
+.about{
+    padding-bottom: 120px;
+}
+.ab_img{}
+
+
+.ab_img img{
+
+}
+
+.ab_text{}
+.ab_h2{
+font-family: 'Lato', sans-serif;
+font-size: 30px;
+font-weight: 400;
+}
+.ab_p{
+    padding: 35px 0px 35px 0;
+
+}
+.ab_p2{
+    padding: 0px 0px 40px 0;
+}
+/* about end */
+/* resent work*/
+/* banner4_start */
+.banner4
+{background-color: #f8f8f8;}
+.recent_work
+{}
+.recent_work h2
+{margin: 0; padding-bottom: 65px; padding-top: 80px; font-family: 'Lato-Regular',sans-serif; font-size: 30px; font-weight: 400; color: black; text-transform: uppercase;}
+.item_menus
+{}
+.item_menus ul li a
+{font-family: 'Lato-Regular',sans-serif; font-size: 16px; text-transform: uppercase; transition: .5s; color: #8e8e8e;}
+.item_menus ul li a:hover
+{color: black; border: 1px solid; transform: scale(.8);}
+.item_all
+{margin: 0 auto; position: relative; width: 84%; border: 1px solid; border-radius: 0; background: #FFF; box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.10);}
+.item_all img
+{width: 100%; display: block;}
+.cont_my
+{position: absolute; top: 0; bottom: 0; left: 0; right: 0; width: 100%; height: 100%; background-color: #7d7d7d; opacity: 0;}
+.cont_my:hover
+{opacity: .8;}
+.cont_my
+{background-color: #808080;}
+.cont_my h2 
+{position: absolute; top: 89%; left: -4%; text-transform: uppercase; transform: translate(4%, 48%); margin: 0; padding: 35px 0; font-size: 20px; font-weight: 600; color: black; text-align: center; width: 100%; border-radius: 0; background: #FFF; box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.10);}
+.cont_my p 
+{position: absolute; top: 100%; left: -4%; transform: translate(4%, 48%); margin: 0; padding: 29px 0; font-size: 16px; font-weight: 700; color: #969696; text-align: center; width: 100%;}
+.cont_my img
+{position: absolute; top: 14%; left: 43%; transform: translate(0%, 45%); margin: 0; padding: 29px 0; font-size: 16px; font-weight: 700; text-align: center; width: 15%;}
+.for_pad
+{}
+/* banner4_end */
+
+/* resent work */
+
+
+
